@@ -1,0 +1,21 @@
+{
+  "name": "sirinam-cli32",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/greeting.js",
+  "bin": {
+    "sincli": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.8"
+  },
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
